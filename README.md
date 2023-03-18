@@ -12,6 +12,25 @@ A worker with a good understanding of client and server architecture thanks to h
 - 💞️ I’m looking to collaborate on open source platfom along these fields listed in my profile
 - 📫 bramslo17 at gmail
 
+Programming languages
+***************************
+...
+...
+
+Frontend Technologies
+***************************
+...
+...
+
+Backend Technologies
+***************************
+
+Tools
+***************************
+
+Upcoming challenges
+***************************
+
 <!---
 Bramslo/Bramslo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
