@@ -11,6 +11,8 @@ A worker with a good understanding of client and server architecture thanks to h
 - 🌱 I’m currently learning IA and IOT and Neuro Linguistic Programming (NLP)
 - 💞️ I’m looking to collaborate on open source platfom along these fields listed in my profile
 - 📫 bramslo17 at gmail
+- Gigs : http://www.fiverr.com/s/7Yk3A5a
+- Fiver Profile : https://www.fiverr.com/s/zWBG1gE
 
 Programming languages
 ***************************
